@@ -1,7 +1,5 @@
 ---
-description: >-
-  The Parlay Island Teacher Platform allows you to manage questions and track
-  student progress.
+  The Parlay Island Teacher Platform allows you to manage questions and track student progress.
 ---
 
 # Teacher Platform
@@ -11,13 +9,11 @@ description: >-
 * Click on the **register** button.
 * Enter your name, email, username, password and click **submit.**
 
-{% hint style="warning" %}
-Make sure your email is valid, your username is unique, and your password is at least 8 characters.
-{% endhint %}
+**Make sure your email is valid, your username is unique, and your password is at least 8 characters.**
 
 * Log into your new account with your username and password.
 
-{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.36.39-pm.mov" caption="Video for Creating an Accoount" %}
+![Video for Creating an Account](.gitbook/assets/screen-recording-2020-11-13-at-8.36.39-pm.mov)
 
 ## Class Codes
 
@@ -42,18 +38,14 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 
 #### Adding a Question
 
-{% hint style="danger" %}
-NOTE: You must create a unit before you can create questions. Questions are linked to a specific unit.
-{% endhint %}
+**NOTE: You must create a unit before you can create questions. Questions are linked to a specific unit.**
 
 1. Click on a **unit** that you have created.
 2. Click on the **plus button** next to the "Add a Question" label.
 3. Enter the name of the question, the answer choices, and click on the radio button that corresponds to the choice that is the correct answer.
-4. After clicking submit, you should see your new question under the "Question Bank"
+4. After clicking submit, you should see your new question under the "Question Bank" section.
 
-   section.
-
-{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.31.13-pm.mov" caption="Video for Adding a Question" %}
+![Video for Adding a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.31.13-pm.mov)
 
 #### Modifying a Question
 
@@ -63,7 +55,7 @@ NOTE: You must create a unit before you can create questions. Questions are link
 4. Change the fields that you want to update.
 5. After you click the **Modify** button, you should see the new changes for your question.
 
-{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.39.22-pm.mov" caption="Video for Modifying a Question" %}
+![Video for Modifying a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.39.22-pm.mov)
 
 #### Deleting a Question
 
@@ -71,7 +63,7 @@ NOTE: You must create a unit before you can create questions. Questions are link
 2. Click on the **red trash icon** next to the question that you want to delete
 3. A confirmation pop-up will appear - click **confirm** to delete the question and **cancel** if you do NOT want to delete the question.
 
-{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.43.54-pm.mov" caption="Video for Deleting a Question" %}
+![Video for Deleting a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.43.54-pm.mov)
 
 ### Understanding Question Statistics
 
@@ -104,10 +96,7 @@ All the students in your class are under the "All Students" header. These studen
 1. Click on a particular student under the "All Students" header.
 2. For every single unit, you will see the questions that the student has answered and what their accuracy for that question was.
 
-{% hint style="warning" %}
-If a student has not answered questions for a particular unit, you will see text that says "This student has no responses for this unit."
-{% endhint %}
-
+**If a student has not answered questions for a particular unit, you will see text that says "This student has no responses for this unit."**
 
 
 
