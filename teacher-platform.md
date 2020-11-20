@@ -17,7 +17,7 @@ description: >-
 
 * Log into your new account with your username and password.
 
-![Video for Creating an Account](.gitbook/assets/screen-recording-2020-11-13-at-8.36.39-pm.mov)
+{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.36.39-pm.mov" caption="Video for Creating an Account" %}
 
 ### Class Codes
 
@@ -49,7 +49,7 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 3. Enter the name of the question, the answer choices, and click on the radio button that corresponds to the choice that is the correct answer.
 4. After clicking submit, you should see your new question under the "Question Bank" section.
 
-![Video for Adding a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.31.13-pm.mov)
+{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.31.13-pm.mov" caption="Video for Adding a Question" %}
 
 **Modifying a Question**
 
@@ -59,7 +59,7 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 4. Change the fields that you want to update.
 5. After you click the **Modify** button, you should see the new changes for your question.
 
-![Video for Modifying a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.39.22-pm.mov)
+{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.39.22-pm.mov" caption="Video for Modifying a Question" %}
 
 **Deleting a Question**
 
@@ -67,7 +67,7 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 2. Click on the **red trash icon** next to the question that you want to delete
 3. A confirmation pop-up will appear - click **confirm** to delete the question and **cancel** if you do NOT want to delete the question.
 
-![Video for Deleting a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.43.54-pm.mov)
+{% file src=".gitbook/assets/screen-recording-2020-11-13-at-8.43.54-pm.mov" caption="Video for Deleting a Question" %}
 
 #### Understanding Question Statistics
 
