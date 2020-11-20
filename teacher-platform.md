@@ -32,7 +32,7 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 
 #### Managing Units
 
-**Adding a Unit**
+#### **Adding a Unit**
 
 1. Click on the plus button next to the "Add a New Unit" label.  
    1. Enter the name of the unit and click submit.  
