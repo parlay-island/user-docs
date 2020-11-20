@@ -1,10 +1,14 @@
 ---
-  The Parlay Island Teacher Platform allows you to manage questions and track student progress.
+description: >-
+  The Parlay Island Teacher Platform allows you to manage questions and track
+  student progress.
 ---
 
-# Teacher Platform
+# teacher-platform
 
-## Creating an Account
+## Teacher Platform
+
+### Creating an Account
 
 * Click on the **register** button.
 * Enter your name, email, username, password and click **submit.**
@@ -15,28 +19,28 @@
 
 ![Video for Creating an Account](.gitbook/assets/screen-recording-2020-11-13-at-8.36.39-pm.mov)
 
-## Class Codes
+### Class Codes
 
 * When you log into your account, you should see your **class code** under your name in the left navigation bar.
   * You must give this class code to students so they can access questions specific to your class.
 
 ![Class code is circled in red.](.gitbook/assets/screen-shot-2020-11-13-at-8.55.01-pm.png)
 
-## Units and Questions
+### Units and Questions
 
 _You can manage your units and questions by clicking on the "Update Questions" tab._
 
-### Managing Units
+#### Managing Units
 
-#### Adding a Unit
+**Adding a Unit**
 
 1. Click on the plus button next to the "Add a New Unit" label.  
- 2. Enter the name of the unit and click submit.  
- 3. You should see the new unit appear under the "All Units" section.
+   1. Enter the name of the unit and click submit.  
+   2. You should see the new unit appear under the "All Units" section.
 
-### Managing Questions 
+#### Managing Questions
 
-#### Adding a Question
+**Adding a Question**
 
 **NOTE: You must create a unit before you can create questions. Questions are linked to a specific unit.**
 
@@ -47,7 +51,7 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 
 ![Video for Adding a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.31.13-pm.mov)
 
-#### Modifying a Question
+**Modifying a Question**
 
 1. Click on a **unit** that you have created.
 2. Click on the **question** that you want to update.
@@ -57,7 +61,7 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 
 ![Video for Modifying a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.39.22-pm.mov)
 
-#### Deleting a Question
+**Deleting a Question**
 
 1. Click on a **unit** that you have created.
 2. Click on the **red trash icon** next to the question that you want to delete
@@ -65,39 +69,36 @@ _You can manage your units and questions by clicking on the "Update Questions" t
 
 ![Video for Deleting a Question](.gitbook/assets/screen-recording-2020-11-13-at-8.43.54-pm.mov)
 
-### Understanding Question Statistics
+#### Understanding Question Statistics
 
-#### Question Overall Results
+**Question Overall Results**
 
 * The percentage at the right of each question is the overall percentage that the question has been answered correctly across all students.
 
 ![This question was answered correctly 50% of the time across all students.](.gitbook/assets/screen-shot-2020-11-13-at-8.55.13-pm.png)
 
-#### Question Choice Specific Results
+**Question Choice Specific Results**
 
 * The percentage at the right of each answer choice is the percentage that choice has been chosen across all students.
 
 ![50% of students answered choice C, and 50% of students answered choice D.](.gitbook/assets/screen-shot-2020-11-13-at-8.55.22-pm.png)
 
-## Student Progress
+### Student Progress
 
 _You can see your students' progress by clicking the "Student Progress" tab._
 
-### Viewing Struggling Students
+#### Viewing Struggling Students
 
 The students under the "Struggling Students" header are the students who have the lowest overall question accuracy.
 
-### Viewing All Students
+#### Viewing All Students
 
 All the students in your class are under the "All Students" header. These students are ordered alphabetically.
 
-### Viewing A Specific Student's Progress
+#### Viewing A Specific Student's Progress
 
 1. Click on a particular student under the "All Students" header.
 2. For every single unit, you will see the questions that the student has answered and what their accuracy for that question was.
 
 **If a student has not answered questions for a particular unit, you will see text that says "This student has no responses for this unit."**
-
-
-
 
