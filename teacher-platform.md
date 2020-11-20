@@ -4,9 +4,7 @@ description: >-
   student progress.
 ---
 
-# teacher-platform
-
-## Teacher Platform
+# Parlay Island Teacher Platform
 
 ### Creating an Account
 
